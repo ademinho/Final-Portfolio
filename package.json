@@ -1,0 +1,12 @@
+{
+  "name": "final-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio personnel",
+  "main": "view/index.html",
+  "scripts": {
+    "start": "serve view"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+} 
